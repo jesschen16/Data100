@@ -6,3 +6,5 @@ body
 ![](cookie.jpg)
 ## test gif
 ![](bird.gif)
+## link
+[link](https://google.com)
