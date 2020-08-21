@@ -1,8 +1,8 @@
 # header
 body
 ## test photo
-![](testphoto.png)
+![](moraine.jpg)
 ## test photo two
-![](cookie.png)
+![](cookie.jpg)
 ## test gif
 ![](bird.gif)
