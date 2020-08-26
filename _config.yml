@@ -1,3 +1,1 @@
-gatsby new my-blog https://github.com/renyuanz/leonids
-cd my-blog
-gatsby develop
+theme: jekyll-theme-minimal
