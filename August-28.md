@@ -8,8 +8,8 @@
   1. [Population](population.pdf)
   2. [Population Comparison](populationcompare.pdf)
   3. [Population Difference](difffromremote.pdf)
-  4. [Population density](density.pdf)
-  5. [Population by sex](splitbysex.pdf)
+  4. [Population Density](density.pdf)
+  5. [Population by Sex](splitbysex.pdf)
   6. [Percent Female Difference](percentfemdiff.pdf)
   
 ### Stretch Goal:
