@@ -1,6 +1,6 @@
 # August 28: Data Management Basics
 
-### Data from 15 counties in Liberia
+### Raw Data from 15 counties in Liberia
   1. [Remote](counties_rmt.csv)
   2. [Source](counties_src.RData)
   
