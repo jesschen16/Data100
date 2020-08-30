@@ -11,5 +11,3 @@
   4. [Population Density](density.pdf)
   5. [Population by Sex](splitbysex.pdf)
   6. [Percent Female Difference](percentfemdiff.pdf)
-  
-### Stretch Goal:
