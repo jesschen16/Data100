@@ -6,3 +6,4 @@ Hello everyone! My name is Jessica and I'm a potential Economics and Applied Sta
 ## Index
 1. [August 24: Getting Started with R and RStudio—Challenge Question](August-24.md)
 2. [August 28: Data Management Basics](August-28.md)
+3. [September 1: Project 1](September-11.md)
