@@ -1,4 +1,5 @@
 ## September 11: Project 1
+## Part 1
 ### Deliverable
 ![](4yrcollapps.png)
 ![](doctoralapps.png)
@@ -14,3 +15,5 @@ A quick explanation—the formula used to calculate the selectivity was such:
 A low admission rates and high enrollment rates are more selective. I arbitrarily set a selective number as closer to 0, so I had to invert the enrollement rate through `1-org_data$enroll_rate`. The constants 0.9 and 0.1 were chosen arbitrarily according to what I thought might factor more into selectivity.
 
 [top50selective.csv](top50selective.csv)
+___
+## Part 2
