@@ -1,4 +1,4 @@
-# September 11: Project 1
+# September 14: Project 1
 ## Part 1
 ### Deliverable
 ![](4yrcollapps.png)
@@ -17,3 +17,4 @@ A low admission rates and high enrollment rates are more selective. I arbitraril
 [top50selective.csv](top50selective.csv)
 ___
 ## Part 2
+![](quartile_statepop.png)
