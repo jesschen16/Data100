@@ -4,7 +4,7 @@
 ![](abspopinc.png)
 ![](avggrowth.png)
 ## Part 2
-![](stocks_relationship.png)
+![](stock_relationships.png)
 
     Model Specified: 
           Next(Cl(COST)) ~ Cl(SFM) 
