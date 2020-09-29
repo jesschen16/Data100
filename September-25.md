@@ -59,3 +59,7 @@
     rValue
           SFM        DG       WMT       TGT      AMZN 
     0.3537012 0.5895301 0.5674464 0.7393199 0.4445997 
+    
+    pVolume
+          SFM       DG      WMT      TGT     AMZN 
+    1949381  2871972 11564206  6693780  5626587 
