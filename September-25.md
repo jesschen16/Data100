@@ -4,71 +4,57 @@
 ![](abspopinc.png)
 ![](avggrowth.png)
 ## Part 2
+![](stocks_relationship.png)
+    Model Specified: 
+          Next(Cl(COST)) ~ Cl(SFM) 
 
+    Model Target:  Next.Cl.COST 		 Product:  COST 
+    Model Inputs:  Cl.SFM 
 
-  Model Specified: 
-       Next(Cl(COST)) ~ Cl(SFM) 
+    Fitted Model: 
+      Modelling procedure:  lm 
+      Training window:  61  observations from  2020-07-01 to 2020-09-25
 
-  Model Target:  Next.Cl.COST 		 Product:  COST 
-  Model Inputs:  Cl.SFM 
+    Model Specified: 
+          Next(Cl(COST)) ~ Cl(DG) 
 
-  Fitted Model: 
+    Model Target:  Next.Cl.COST 		 Product:  COST 
+    Model Inputs:  Cl.DG 
 
-  	Modelling procedure:  lm 
-  	Training window:  61  observations from  2020-07-01 to 2020-09-25
+    Fitted Model: 
+      Modelling procedure:  lm 
+      Training window:  61  observations from  2020-07-01 to 2020-09-25
 
-  quantmod object:   lm1601352241.54526 	Build date:  2020-09-29 00:04:01 
+    Model Specified: 
+         Next(Cl(COST)) ~ Cl(WMT) 
 
-  Model Specified: 
-       Next(Cl(COST)) ~ Cl(DG) 
+    Model Target:  Next.Cl.COST 		 Product:  COST 
+    Model Inputs:  Cl.WMT 
 
-  Model Target:  Next.Cl.COST 		 Product:  COST 
-  Model Inputs:  Cl.DG 
+    Fitted Model: 
+      Modelling procedure:  lm 
+      Training window:  61  observations from  2020-07-01 to 2020-09-25
 
-  Fitted Model: 
+    Model Specified: 
+         Next(Cl(COST)) ~ Cl(TGT) 
 
-  	Modelling procedure:  lm 
-  	Training window:  61  observations from  2020-07-01 to 2020-09-25
+    Model Target:  Next.Cl.COST 		 Product:  COST 
+    Model Inputs:  Cl.TGT 
 
-  quantmod object:   lm1601352241.60755 	Build date:  2020-09-29 00:04:01 
+    Fitted Model: 
+      Modelling procedure:  lm 
+      Training window:  61  observations from  2020-07-01 to 2020-09-25
 
-  Model Specified: 
-       Next(Cl(COST)) ~ Cl(WMT) 
+    Model Specified: 
+         Next(Cl(COST)) ~ Cl(AMZN) 
 
-  Model Target:  Next.Cl.COST 		 Product:  COST 
-  Model Inputs:  Cl.WMT 
+    Model Target:  Next.Cl.COST 		 Product:  COST 
+    Model Inputs:  Cl.AMZN 
 
-  Fitted Model: 
+    Fitted Model: 
+      Modelling procedure:  lm 
+      Training window:  61  observations from  2020-07-01 to 2020-09-25
 
-    Modelling procedure:  lm 
-    Training window:  61  observations from  2020-07-01 to 2020-09-25
-
-  quantmod object:   lm1601352241.64559 	Build date:  2020-09-29 00:04:01 
-
-  Model Specified: 
-       Next(Cl(COST)) ~ Cl(TGT) 
-
-  Model Target:  Next.Cl.COST 		 Product:  COST 
-  Model Inputs:  Cl.TGT 
-
-  Fitted Model: 
-
-    Modelling procedure:  lm 
-    Training window:  61  observations from  2020-07-01 to 2020-09-25
-
-  quantmod object:   lm1601352241.70661 	Build date:  2020-09-29 00:04:01 
-
-  Model Specified: 
-       Next(Cl(COST)) ~ Cl(AMZN) 
-
-  Model Target:  Next.Cl.COST 		 Product:  COST 
-  Model Inputs:  Cl.AMZN 
-
-  Fitted Model: 
-
-    Modelling procedure:  lm 
-    Training window:  61  observations from  2020-07-01 to 2020-09-25
-
-  rValue
-        SFM        DG       WMT       TGT      AMZN 
-  0.3537012 0.5895301 0.5674464 0.7393199 0.4445997 
+    rValue
+          SFM        DG       WMT       TGT      AMZN 
+    0.3537012 0.5895301 0.5674464 0.7393199 0.4445997 
