@@ -8,4 +8,4 @@ Hello everyone! My name is Jessica and I'm a potential Economics and Applied Sta
 2. [August 28: Data Management Basics](August-28.md)
 3. [Data Science Reflection 1](Reflection_1.md)
 4. [September 14: Project 1](September-14.md)
-5. [September 25: Project 2](September-25.md)
+5. [October 2: Project 2](September-25.md)
