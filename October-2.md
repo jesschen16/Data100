@@ -4,6 +4,7 @@
 ![](abspopinc.png)
 ![](avggrowth.png)
 ## Part 2
+### Deliverable
 ![](stock_relationships.png)
 
     Model Specified: 
@@ -64,3 +65,8 @@
           SFM       DG      WMT      TGT     AMZN 
     1949381  2871972 11564206  6693780  5626587 
 ## Part 3
+### Deliverable
+![](roi.png)
+![](portfolio1.png)
+### Stretch Goal 1
+![](portfolio2.png)
