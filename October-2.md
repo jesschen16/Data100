@@ -1,4 +1,4 @@
-# September 25: Project 2
+# October 2: Project 2
 ## Part 1
 ### Deliverable
 ![](abspopinc.png)
@@ -63,3 +63,4 @@
     pVolume
           SFM       DG      WMT      TGT     AMZN 
     1949381  2871972 11564206  6693780  5626587 
+## Part 3
