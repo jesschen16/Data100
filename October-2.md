@@ -68,5 +68,3 @@
 ### Deliverable
 ![](roi.png)
 ![](portfolio1.png)
-### Stretch Goal 1
-![](portfolio2.png)
