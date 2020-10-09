@@ -7,4 +7,3 @@
 
 ## Part 2
 ### Deliverable
-![](quartile_statepop.png)
