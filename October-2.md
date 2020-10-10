@@ -64,6 +64,7 @@
     pVolume
           SFM       DG      WMT      TGT     AMZN 
     1949381  2871972 11564206  6693780  5626587 
+
 ## Part 3
 ### Deliverable
 ![](roi.png)
