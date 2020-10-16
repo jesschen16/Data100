@@ -8,3 +8,4 @@
 ![](midtjylland.png)
 ### Stretch Goal 3
 ![](details.png)
+Manually drew the boxes for Detail A and Detail B
