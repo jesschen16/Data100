@@ -7,4 +7,4 @@
 ### Stretch Goal 2
 ![](midtjylland.png)
 ### Stretch Goal 3
-
+![](details.png)
