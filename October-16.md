@@ -1,4 +1,4 @@
-# October 12: Project 3
+# October 16: Project 3
 ## Part 1
 ### Deliverable
 ![](denmark.png)
