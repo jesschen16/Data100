@@ -12,3 +12,4 @@ Hello everyone! My name is Jessica and I'm a potential Economics and Applied Sta
 6. [October 2: Project 2](October-2.md)
 7. [Data Science Reflection 3](Reflection_3.md)
 8. [October 16: Project 3](October-16.md)
+9. [October 26: Project 4](October-26.md)
