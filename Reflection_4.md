@@ -1,7 +1,9 @@
 # Data Reflection 4: Natural Language Processing for Detecting Partisan Bias
 
 The Bipartisan Press is a website that labels each article it posts with a bias rating derived using Natural Language Processing (NLP). With the ever increasing distrust in media, it aims to provide a greater amount of transparency by quantifying an article’s bias and partisan leaning. NLP is a subset of machine learning, so it utilizes neural networks that would be built to identify certain keywords, word frequency, grammatical structure, etc. The Bipartisan Press utilized two architectures, or combinations of functions—Long-Short Term Memory (LSTM) and Transformer networks (BERT).
+
 In determining model performance, the website creators looked at accuracy for classification variables (left or right) and mean absolute error for scaled variables (degree of bias). The website creators noted that previous researchers had developed models using NLP to determine bias, but only looked at classification variables. Validation data included the following: pre-labeled articles in AdFontesMedia, a set of 10,000 articles that had the bias assessed by MediaBiasFactCheck, and the AllTheNews dataset. Data from AdFontesMedia and MediaBiasFactCheck have numerical values of bias while the AllTheNews dataset is only categorized by left or right. After a series of testing different models, they found that Facebook’s RoBERTa model performed the best when trained on data from AdFontesMedia. 
+
 Roberta is BERT approach model that added pre-training qualifications to BERT model developed by Google. While converting the original Tensorflow architecture and converting it to PyTorch, Facebook added hyperparameters (assumptions made of the dataset prior to training) and increased the size and repetitions of training. 
 
 ### Sources:
